@@ -1,0 +1,2 @@
+docker exec -it 16c7945d8147 /bin/bash
+cat /etc/*release
